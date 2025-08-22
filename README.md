@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hii , I'm Rahma Aribi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>## Hi there 👋
+<h1 align="center"><b>Hii , I'm Rahma Aribi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
@@ -11,7 +11,10 @@
 <img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
 
 
-## 🚀 About me
+<!-- About Me -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> About Me</b>
+<br>
+
 - 🎓 **Business Informatics / BI** student who loves building useful web apps.
 - 💻 Learning and building with **React, Node.js/Express, Java (OOP), Python (Pandas), PL/SQL**.
 - 📊 Interested in **Power BI**, dashboards, and data storytelling.
@@ -46,6 +49,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)  
 
 
+<!-- Github Stats  -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
@@ -65,6 +69,8 @@
 </div>
 
 
-## 🤝 Let’s connect
+<!-- Let’s Connect -->
+## <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="25"><b> 🤝 Let’s connect</b>
+<br>
 - 💼 **LinkedIn:** [rahma-aribi-69480534b](https://www.linkedin.com/in/rahma-aribi-69480534b)
 - ✉️ **Email:** rahmaaribi35@gmail.com
