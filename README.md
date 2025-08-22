@@ -75,5 +75,5 @@
 <!-- Let’s Connect -->
 ## <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="25"><b> 🤝 Let’s connect</b>
 <br>
-- 💼 **LinkedIn:** [rahma-aribi-69480534b](https://www.linkedin.com/in/rahma-aribi-69480534b)
+- 💼 **LinkedIn:** [rahma-aribi-69480534b](https://www.linkedin.com/in/rahma-aribi-69480534b) <br>
 - ✉️ **Email:** rahmaaribi35@gmail.com
