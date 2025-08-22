@@ -8,7 +8,7 @@
 </p>
 
 
-<img title="My Avatar" align="left" src="avatar.png"  width="500px" alt="hi" >
+<img title="My Avatar" align="left" src="avatar.png"  width="400px" alt="hi" >
 
 
 <!-- About Me -->
