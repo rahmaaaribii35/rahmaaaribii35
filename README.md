@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white">
 </p>
  
- <br><br> <br><br> <br><br>  <br><br> 
+ <br><br> <br><br> <br><br>  
 
 <!-- Github Stats  -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
